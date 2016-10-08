@@ -1,4 +1,11 @@
 this is where Cristal Journeys experiences are chronicled.
+
+<div align="left">
+
+<p>
+						<h3>Suggested readings prior to the books below</h3> 
+</p> </div>
+     
  <div align="center">
 
 <strong>flow 1</strong><br>
