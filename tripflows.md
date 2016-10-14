@@ -3,10 +3,24 @@ this is where Cristal Journeys experiences are chronicled.
 <div align="left">
 
 <p>
-						<h3>Suggested readings prior to the books below</h3> 
+<h3>these are the tip flows below
+<ul>
+
+</ul>
+Praha - otherwise known as Prague
+
+</h3>
 </p> </div>
      
  <div align="center">
+ 
+ Praha - otherwise known as Prague
+ <a href="http://imgur.com/RIEn9Nh"><img src="http://i.imgur.com/RIEn9Nh.jpg" title="source: imgur.com" /></a><br>
+ <a href="http://imgur.com/8dhUug3"><img src="http://i.imgur.com/8dhUug3.jpg" title="source: imgur.com" /></a><br>
+ <a href="http://imgur.com/28wESep"><img src="http://i.imgur.com/28wESep.jpg" title="source: imgur.com" /></a><br>
+ <a href="http://imgur.com/iUr0d5d"><img src="http://i.imgur.com/iUr0d5d.jpg" title="source: imgur.com" /></a><br>
+ <a href="http://imgur.com/pfWbZZ4"><img src="http://i.imgur.com/pfWbZZ4.jpg" title="source: imgur.com" /></a><br>
+ 
 
 <strong>flow 1</strong><br>
 <a href="http://imgur.com/NEQZyuF"><img src="http://i.imgur.com/NEQZyuF.jpg" title="source: imgur.com" /></a>
