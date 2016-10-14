@@ -3,18 +3,18 @@ this is where Cristal Journeys experiences are chronicled.
 <div align="left">
 
 <p>
-<h3>these are the tip flows below
+<h3>these are the tip flows below</h3>
 <ul>
 
 </ul>
 Praha - otherwise known as Prague
 
-</h3>
+
 </p> </div>
      
  <div align="center">
  
- Praha - otherwise known as Prague
+ <strong>Praha - otherwise known as Prague</strong>
  <a href="http://imgur.com/RIEn9Nh"><img src="http://i.imgur.com/RIEn9Nh.jpg" title="source: imgur.com" /></a><br>
  <a href="http://imgur.com/8dhUug3"><img src="http://i.imgur.com/8dhUug3.jpg" title="source: imgur.com" /></a><br>
  <a href="http://imgur.com/28wESep"><img src="http://i.imgur.com/28wESep.jpg" title="source: imgur.com" /></a><br>
