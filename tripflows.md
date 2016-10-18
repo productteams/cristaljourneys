@@ -22,7 +22,7 @@ Praha - otherwise known as Prague
  <a href="http://imgur.com/pfWbZZ4"><img src="http://i.imgur.com/pfWbZZ4.jpg" title="source: imgur.com" /></a><br>
  
 
-<strong>flow 1</strong><br>
+<strong>Africa</strong><br>
 <a href="http://imgur.com/NEQZyuF"><img src="http://i.imgur.com/NEQZyuF.jpg" title="source: imgur.com" /></a>
 <br>
 <a href="http://imgur.com/l7YJ6pS"><img src="http://i.imgur.com/l7YJ6pS.jpg" title="source: imgur.com" /></a>
@@ -134,7 +134,7 @@ image a
 <br>
 image a
 <strong>location a</strong><br>
- 
+ <a href="http://imgur.com/rJ3PTw5"><img src="http://i.imgur.com/rJ3PTw5.jpg" title="source: imgur.com" /></a>
 <strong>location b</strong><br>
 <strong>location c</strong><br>
 <strong>location d</strong><br>
