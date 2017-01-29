@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "some people love to be in the water"
+title:  
 date:   2016-09-03 13:46:40
 permalink: /eaglesview/
 ---
