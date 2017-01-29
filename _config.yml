@@ -1,8 +1,8 @@
 # Site settings
-title: cristal journeys
-email: founders@cristaljourneys.com
+title: Cristal Journeys
+email: cristaljourneys@productteams.com
 description: > # this means to ignore newlines until "baseurl:"
-Curated airBnb journeys that are off the beaten path - stay in innovative structures and off-grid palaces that have all the comforts of home. 
+  Rock-hounding adventures around the world.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://cristaljourneys.com" # the base hostname & protocol for your site
 twitter_username: cristaljourneys
