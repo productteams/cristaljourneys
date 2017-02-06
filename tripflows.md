@@ -1,3 +1,12 @@
+---
+layout: page
+title:  TripFlow"
+date:   2016-09-03 13:46:40
+permalink: TripFlow/
+---
+
+<h2 style="text-align:center">TripFlow</h2>
+
 this is where Cristal Journeys experiences are chronicled.
 
 <div align="left">
