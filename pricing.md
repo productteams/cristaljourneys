@@ -51,18 +51,6 @@ permalink: /pricing/
   </ul>
 </div>
 
-<div class="columns">
-  <ul class="price">
-    <li class="header">Zanzibar Safari Extension</li>
-    <li class="grey">$ $1199 / 4 days</li>
-    <li>Dedicated Coral Expert</li>
-    <li>All gear included</li>
-    <li>All local transport included</li>
-    <li>All lodging included</li>
-    <li>Underwater photo equipment included</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
-  </ul>
-</div>
 
 <script type="text/javascript">
     window._chatlio = window._chatlio||[];
