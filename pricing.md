@@ -10,8 +10,8 @@ permalink: /pricing/
 
 <div class="columns">
   <ul class="price">
-    <li class="header">SkiWeek Pass </li>
-    <li class="grey">$ 59/week</li>
+    <li class="header">Supporting Membership </li>
+    <li class="grey">$ 20/year</li>
     <li>Traffic Predictions</li>
     <li>Morning Flash</li>
     <li>BackHome Flash</li>
@@ -35,6 +35,19 @@ permalink: /pricing/
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </li>
+  </ul>
+</div>
+
+<div class="columns">
+  <ul class="price">
+    <li class="header">Annual Pass</li>
+    <li class="grey">$ 349 / 12 months</li>
+    <li>Dedicated Concierge</li>
+    <li>Plan Your Year services</li>
+    <li>HomeOwners Tasks Services </li>
+    <li>VIP Parking Access </li>
+    <li>VIP RIdes (less than 15 min wait or its free)</li>
+    <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
 
