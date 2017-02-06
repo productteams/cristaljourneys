@@ -22,12 +22,12 @@ permalink: /pricing/
 
 <div class="columns">
   <ul class="price">
-    <li class="header" style="background-color:#4CAF50">SkiSeason Pass</li>
-    <li class="grey">$ 190 / season</li>
-    <li>Dedicated Concierge</li>
-    <li>Ski Storage</li>
-    <li>VIP Event Access </li>
-    <li>VIP Parking Access</li>
+    <li class="header" style="background-color:#4CAF50">Cabo 4 Day Trip</li>
+    <li class="grey">$ 799 / season</li>
+    <li>Dedicated Coral Expert</li>
+    <li>All Gear included</li>
+    <li>All local transport </li>
+    <li>All lodging included</li>
     <li class="grey"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="YNT63SPK3S6WU">
@@ -40,26 +40,26 @@ permalink: /pricing/
 
 <div class="columns">
   <ul class="price">
-    <li class="header">Annual Pass</li>
-    <li class="grey">$ 349 / 12 months</li>
-    <li>Dedicated Concierge</li>
-    <li>Plan Your Year services</li>
-    <li>HomeOwners Tasks Services </li>
-    <li>VIP Parking Access </li>
-    <li>VIP RIdes (less than 15 min wait or its free)</li>
+    <li class="header">Help the Researchers<br>Great Barrier Reed</li>
+    <li class="grey">$ $1199 / 8 days</li>
+    <li>Dedicated Coral Expert</li>
+    <li>All gear included</li>
+    <li>All local transport included </li>
+    <li>Airfare to Australia not included</li>
+    <li>Local lodging included</li>
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
 
 <div class="columns">
   <ul class="price">
-    <li class="header">Annual Pass</li>
-    <li class="grey">$ 349 / 12 months</li>
-    <li>Dedicated Concierge</li>
-    <li>Plan Your Year services</li>
-    <li>HomeOwners Tasks Services </li>
-    <li>VIP Parking Access </li>
-    <li>VIP RIdes (less than 15 min wait or its free)</li>
+    <li class="header">Zanzibar Safari Extension</li>
+    <li class="grey">$ $1199 / 4 days</li>
+    <li>Dedicated Coral Expert</li>
+    <li>All gear included</li>
+    <li>All local transport included</li>
+    <li>All lodging included</li>
+    <li>Underwater photo equipment included</li>
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
