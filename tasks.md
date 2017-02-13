@@ -91,7 +91,7 @@ permalink: /ranked-tasks/
 <br>
 <hr>
 <div align="center">
-<strong>Our Running Task List </strong>(ranked in order of frequency of requests) <br>
+<strong>Our Running Concierge Task List </strong>(ranked in order of frequency of requests). This is shared so you can see the depth and breadth of our concierge services. Our mission is to make your experience the best possible.<br>
 <br>
 <span class="fa-stack fa-3x">
   <i class="fa fa-calendar-o fa-stack-2x"></i>
@@ -103,33 +103,24 @@ permalink: /ranked-tasks/
 <li> Dinner Restaurant Reservations</li>
 <li> Lunch take-out</li>
 <li> Ride to Resort </li>
-<li> Lift and Shift furniture</li>
 <li> Home cleaning</li>
 <li> Ride from resort</li>
-<li> skiis brough to airport</li>
-<li> Furniture Assembly</li>
+<li> Gear brough to airport</li>
+<li> GearAssembly</li>
 <li> Drop off car at mechanic</li>
-<li> Arrange group ski rental</li>
-<li> Reno Shuttle arranged</li>
+<li> Arrange group group rental</li>
+<li> Cabo Shuttle arranged</li>
 <li> Hotel Booking</li>
-<li> Wood delivered</li>
+<li> Wood delivered to Beach</li>
 <li> Breakfast reservations</li>
 <li> AirBnB arranged</li>
 <li> Dog sitter arranged</li>
-<li> met UPS at house to bring in delivery</li>
 <li> Fedex drop-off</li>
 <li> Mail Pick-up </li>
-<li> Arrange Snow Removal</li>
-<li> Salt walkways</li>
 <li> Arrange Plumber</li>
-<li> Meet Amazon Prime delivery</li>
 <li> Dog taken to vet</li>
-<li> Arrange baby-sitter from Care.com</li>
-<li> Pick up Meds from Safeway Pharmacy</li>
-<li> DMV submittal</li>
-<li> Insurance  </li>
-<li> Buy lift tickets</li>
-<li> Change to snow tires</li>
+<li> Arrange baby-sitter</li>
+<li> Pick up Meds from Pharmacy</li>
 
 </ol>
 
