@@ -5,7 +5,7 @@ date:   2016-09-03 13:46:40
 permalink: /Ocean Testing/
 ---
 
-   <div align="center">
+<div align="center">
      <h2>Ocean Crowd Testing Program</h2>
         
 <div style="clear:both"></div>
@@ -16,11 +16,12 @@ permalink: /Ocean Testing/
 <br/>
 <br/>
      </div>
-    
+<p>    
 <div align="center">
 <a class="linker" href="http://www.CRISTALjourneys.com/testing-details.md"  target="_blank">Add your Sample, Get Counted</a>
 Help build the data to combat ocean acidification.
 </div>
+</p>
 <script>
 $('.count').each(function () {
     $(this).prop('Counter',0).animate({
@@ -34,6 +35,9 @@ $('.count').each(function () {
     });
 });
 </script>
+<br>
+<br>
+
 <div id="formContent">
   <h4>Get notified when deals come up</h4>
   <form action="">
@@ -46,6 +50,6 @@ Our Goal is to empower every traveller to check the Ph of the ocean water.
 
 Just take a sample of the local water.  Send it to us.
 
-
+<a href="http://imgur.com/KQi641Z"><img src="http://i.imgur.com/KQi641Z.png" title="source: imgur.com" /></a>
 
 
