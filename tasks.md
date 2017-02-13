@@ -22,56 +22,56 @@ permalink: /ranked-tasks/
     <th>Low Rating</th>
   </tr>
   <tr>
-    <td>1. PAY EASILY</td>
+    <td>1. WATER CLARITY</td>
     <td>7.8</td>
     <td>9.9</td>
     <td>6.5</td>
   </tr>
   <tr>
-    <td>2. ONE CLICK RESERVATIONS</td>
+    <td>2. LODGING</td>
     <td>8.8</td>
     <td>9.9</td>
     <td>    <!-- reference any icon you'd like -->
     4.5</td>
   </tr>
   <tr>
-    <td>3. TRIP PLANNING TOOLS</td>
+    <td>3. UNDERWATER GUIDES</td>
     <td>9.3</td>
     <td>9.9</td>
     <td>4.5</td>
   </tr>
   <tr>
-    <td>4.SNOW REPORT</td>
+    <td>4.GEAR AND EQUIPMENT</td>
     <td>9.1</td>
     <td>9.9</td>
     <td>4.3</td>
   </tr>
   <tr>
-    <td>5. WHAT TO DO</td>
+    <td>5. FRIENDLY TEAM</td>
     <td>8.6</td>
     <td>10</td>
     <td>6.9</td>
   </tr>
   <tr>
-    <td>6.CONCIERGE</td>
+    <td>6.CONCIERGE SERVICE</td>
     <td>8.1</td>
     <td>10</td>
     <td>4.5</td>
   </tr>
   <tr>
-    <td>7. PLANNING</td>
+    <td>7. FOOD AND DRINK</td>
     <td>7.1</td>
     <td>9.3</td>
     <td>5.4</td>
   </tr>
   <tr>
-    <td>8. LOCAL NEWS</td>
+    <td>8. LOCAL TRANSPORT</td>
     <td>7.8</td>
     <td>9.1</td>
     <td>6.3</td>
   </tr>
   <tr>
-    <td>9. SPECIAL DETAILS</td>
+    <td>9. ATTENTION TO SPECIAL DETAILS</td>
     <td>7.4
 </td>
     <td>9.3
@@ -82,7 +82,7 @@ permalink: /ranked-tasks/
 </td>
   </tr>
   <tr>
-    <td>10. Price</td>
+    <td>10. PRICE/VALUE</td>
     <td>8.4</td>
     <td>9.2</td>
     <td>6.1</td>
