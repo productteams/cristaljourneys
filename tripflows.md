@@ -9,7 +9,7 @@ permalink: TripFlow/
 
 <div align="left">
 <p>
-<h3>Day by Day Images for Baja-Sur Cabo Reefs</h3>
+<h3>Day by Day Images</h3>
 <ul>
 Day 1:
 Day 2:
@@ -21,13 +21,15 @@ Day 4:
      
  <div align="center">
  
- <strong>Baja-Sur - Innerspace</strong>
+ <strong>4 Day Cabo Innerspace Trip</strong>
  <a href="http://imgur.com/RIEn9Nh"><img src="http://i.imgur.com/RIEn9Nh.jpg" title="source: imgur.com" /></a><br>
  <a href="http://imgur.com/8dhUug3"><img src="http://i.imgur.com/8dhUug3.jpg" title="source: imgur.com" /></a><br>
  <a href="http://imgur.com/28wESep"><img src="http://i.imgur.com/28wESep.jpg" title="source: imgur.com" /></a><br>
  <a href="http://imgur.com/iUr0d5d"><img src="http://i.imgur.com/iUr0d5d.jpg" title="source: imgur.com" /></a><br>
  <a href="http://imgur.com/pfWbZZ4"><img src="http://i.imgur.com/pfWbZZ4.jpg" title="source: imgur.com" /></a><br>
-<strong>Africa</strong><br>
+ <br>
+ <br>
+<strong>8 DAY Baja-Sur Help the Coral Researchers </strong><br>
 <a href="http://imgur.com/NEQZyuF"><img src="http://i.imgur.com/NEQZyuF.jpg" title="source: imgur.com" /></a>
 <br>
 <a href="http://imgur.com/l7YJ6pS"><img src="http://i.imgur.com/l7YJ6pS.jpg" title="source: imgur.com" /></a>
