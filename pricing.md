@@ -12,10 +12,10 @@ permalink: /pricing/
   <ul class="price">
     <li class="header">Supporting Membership </li>
     <li class="grey">$ 20/year</li>
-    <li>Traffic Predictions</li>
-    <li>Morning Flash</li>
-    <li>BackHome Flash</li>
-    <li>North Tahoe Merchant Specials/Discounts</li>
+    <li>100% goes to Save Coral Reefs</li>
+    <li>Monthly Email Newsletter</li>
+    <li>Great Barrier Reef Watch Report</li>
+    <li>Cabo Reef Watch Report</li>
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
 </div>
@@ -40,12 +40,12 @@ permalink: /pricing/
 
 <div class="columns">
   <ul class="price">
-    <li class="header">Help the Researchers<br>Great Barrier Reed</li>
+    <li class="header">Help the Researchers<br>Baja-Sur Reefs</li>
     <li class="grey">$ $1199 / 8 days</li>
-    <li>Dedicated Coral Expert</li>
+    <li>Dedicated Coral Guide</li>
     <li>All gear included</li>
     <li>All local transport included </li>
-    <li>Airfare to Australia not included</li>
+    <li>Airfare to Cabo not included</li>
     <li>Local lodging included</li>
     <li class="grey"><a href="#" class="button">Sign Up</a></li>
   </ul>
