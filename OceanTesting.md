@@ -5,8 +5,6 @@ date:   2016-09-03 13:46:40
 permalink: /Ocean Testing/
 ---
 
-
-  <br />
    <div align="center">
      <h2>Ocean Crowd Testing Program</h2>
         
@@ -14,7 +12,9 @@ permalink: /Ocean Testing/
 <div id="talkbubble"><span class="count"> 1051</span><br>TOTAL SAMPLES</div>
 <div id="talkbubble0"><span class="count">7108</span><br>AVERAGE PH</div>
 <div id="talkbubble1"><span class="count">190</span><br>BLEACHING EVENTS</div>
-<br />
+<br/>
+<br/>
+<br/>
      </div>
     
 <div align="center">
@@ -40,6 +40,7 @@ $('.count').each(function () {
   <label for="emailAddress">email</label>
   <input type="text" class="fontAwesome" name="emailAddress" placeholder="&#xf0e0;  insert email ..." value="">
   </form>
+  </div>
 
 Our Goal is to empower every traveller to check the Ph of the ocean water. 
 
