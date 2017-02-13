@@ -8,7 +8,107 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+#shiva
+{
+  width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  float:left;
+  margin:5px;
+}
+.count
+{
+  line-height: 100px;
+  color:white;
+  margin-left:30px;
+  font-size:35px;
+}
+#talkbubble {
+   width: 190px;
+   height: 80px;
+   background: #0071bc;
+   position: relative;
+   -moz-border-radius:    10px;
+   -webkit-border-radius: 10px;
+   border-radius:         10px;
+  float:left;
+  margin:20px;
+}
+#talkbubble0 {
+   width: 160px;
+   height: 90px;
+   background: #0071bc;
+   position: relative;
+   -moz-border-radius:    10px;
+   -webkit-border-radius: 10px;
+   border-radius:         10px;
+  float:left;
+  margin:20px;
+}
+#talkbubble1 {
+   width: 160px;
+   height: 100px;
+   background: #0071bc;
+   position: relative;
+   -moz-border-radius:    10px;
+   -webkit-border-radius: 10px;
+   border-radius:         10px;
+  float:left;
+  margin:20px;
+}
+#talkbubble:before {
+   content:"";
+   position: absolute;
+   right: 100%;
+   top: 26px;
+   width: 0;
+   height: 0;
+   border-top: 13px solid transparent;
+   border-right: 26px solid #0071bc;
+   border-bottom: 13px solid transparent;
+}
+#talkbubble1:before {
+   content:"";
+   position: absolute;
+   right: 100%;
+   top: 26px;
+   width: 0;
+   height: 0;
+   border-top: 13px solid transparent;
+   border-right: 26px solid #0071bc;
+   border-bottom: 13px solid transparent;
+}
+#talkbubble:before {
+   content:"";
+   position: absolute;
+   right: 100%;
+   top: 26px;
+   width: 0;
+   height: 0;
+   border-top: 13px solid transparent;
+   border-right: 26px solid #0071bc;
+   border-bottom: 13px solid transparent;
+}
+#talkbubble0:before {
+   content:"";
+   position: absolute;
+   right: 100%;
+   top: 26px;
+   width: 0;
+   height: 0;
+   border-top: 13px solid transparent;
+   border-right: 26px solid #0071bc;
+   border-bottom: 13px solid transparent;
+}
 
+.linker
+{
+  font-size : 20px;
+  font-color: black;
+}
 
 /**
  * Basic styling
