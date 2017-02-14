@@ -51,6 +51,11 @@ Our Goal is to empower every traveller to check the Ph of the ocean water.
 
 Just take a sample of the local water.  Send it to us.
 
+The oceans are getting more acidic, and this has a direct result on the ability of coral to grow. 
+<a href="http://imgur.com/bBtZbAu"><img src="http://i.imgur.com/bBtZbAu.jpg" title="source: imgur.com" /></a>
+
+The scientific establishment is tracking ocean acidification at various locations around the worl.
+
 <a href="http://imgur.com/KQi641Z"><img src="http://i.imgur.com/KQi641Z.png" title="source: imgur.com" /></a>
 
 
