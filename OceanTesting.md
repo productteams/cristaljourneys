@@ -6,7 +6,7 @@ permalink: /Ocean Testing/
 ---
 
 <div align="center">
-     <h2>Ocean Crowd Testing Program</h2>
+     <h2>Ocean Acidification Crowd Testing Program</h2>
         
 <div style="clear:both"></div>
 <div id="talkbubble"><span class="count"> 1051</span><br>TOTAL SAMPLES</div>
@@ -23,6 +23,8 @@ permalink: /Ocean Testing/
 Help build the data to combat ocean acidification.
 </div>
 </p>
+
+We are now in a situation where ocean sample testing can be done by anyone, and our goal is get a preponderance of sea water data to help scientists understand how prevalent and how intense the problem is.
 <script>
 $('.count').each(function () {
     $(this).prop('Counter',0).animate({
