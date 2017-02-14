@@ -64,6 +64,9 @@ Most scientists believe that ocean acidification is a direct result of the incre
 <br>
 <a href="http://imgur.com/3HRmhs7"><img src="http://i.imgur.com/3HRmhs7.png" title="source: imgur.com" /></a>
 <br>
+And we can see that this rise is accelerating on average each year as seen below.<br>
+<a href="http://imgur.com/URVtWd4"><img src="http://i.imgur.com/URVtWd4.png" title="source: imgur.com" /></a>
+<br>
 In addition, many scientists also believe that this increase in Carbon DiOxide concentration is a direct result of human activity as seen below.<br>
 <a href="http://imgur.com/zzSpSts"><img src="http://i.imgur.com/zzSpSts.png" title="source: imgur.com" /></a>
 
