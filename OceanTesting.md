@@ -53,7 +53,10 @@ Our Goal is to empower every traveller to check the Ph of the ocean water. <br>
 <br>
 Just take a sample of the local water.  Send it to us.<br>
 <br>
-The oceans are getting more acidic, and this has a direct result on the ability of coral to grow. 
+When oceans get more acidic, it reduces the ability of coral to grow. Here is a general ph scale and some of the impacts of acidification.<br>
+<a href="http://imgur.com/vPTjs4h"><img src="http://i.imgur.com/vPTjs4h.png" title="source: imgur.com" /></a><br>
+It does seem that the ocean is getting more acidic.<br>
+<br>
 <a href="http://imgur.com/bBtZbAu"><img src="http://i.imgur.com/bBtZbAu.jpg" title="source: imgur.com" /></a>
 <br>
 The scientific establishment is tracking ocean acidification at various locations around the world.<br>
