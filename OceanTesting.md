@@ -48,16 +48,23 @@ $('.count').each(function () {
   <input type="text" class="fontAwesome" name="emailAddress" placeholder="&#xf0e0;  insert email ..." value="">
   </form>
   </div>
-
-Our Goal is to empower every traveller to check the Ph of the ocean water. 
-
-Just take a sample of the local water.  Send it to us.
-
+<br>
+Our Goal is to empower every traveller to check the Ph of the ocean water. <br>
+<br>
+Just take a sample of the local water.  Send it to us.<br>
+<br>
 The oceans are getting more acidic, and this has a direct result on the ability of coral to grow. 
 <a href="http://imgur.com/bBtZbAu"><img src="http://i.imgur.com/bBtZbAu.jpg" title="source: imgur.com" /></a>
-
-The scientific establishment is tracking ocean acidification at various locations around the worl.
-
+<br>
+The scientific establishment is tracking ocean acidification at various locations around the world.<br>
+<br>
 <a href="http://imgur.com/KQi641Z"><img src="http://i.imgur.com/KQi641Z.png" title="source: imgur.com" /></a>
+<br>
+Most scientists believe that ocean acidification is a direct result of the increase in the Carbin DiOxide concentration of the atmosphere. We can see below that the CO2 measured is steadily rising.<br>
+<br>
+<a href="http://imgur.com/3HRmhs7"><img src="http://i.imgur.com/3HRmhs7.png" title="source: imgur.com" /></a>
+<br>
+In addition, many scientists also believe that this increase in Carbon DiOxide concentration is a direct result of human activity as seen below.<br>
+<a href="http://imgur.com/zzSpSts"><img src="http://i.imgur.com/zzSpSts.png" title="source: imgur.com" /></a>
 
 
