@@ -71,6 +71,9 @@ We can also see that there is a seasonal variation of carbon DiOxide concentrati
 <a href="http://imgur.com/rRN307T"><img src="http://i.imgur.com/rRN307T.png" title="source: imgur.com" /></a>
 <br>
 In addition, many scientists also believe that this increase in Carbon DiOxide concentration is a direct result of human activity as seen below.<br>
-<a href="http://imgur.com/zzSpSts"><img src="http://i.imgur.com/zzSpSts.png" title="source: imgur.com" /></a>
+<a href="http://imgur.com/zzSpSts"><img src="http://i.imgur.com/zzSpSts.png" title="source: imgur.com" /></a><br>
+<br>
+What is results in is a change in the aragonite concentration in the waters around the coral reefs as seen below.<br>
+<a href="http://imgur.com/gG6fgna"><img src="http://i.imgur.com/gG6fgna.png" title="source: imgur.com" /></a>
 
 
