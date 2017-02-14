@@ -6,8 +6,8 @@ permalink: /Ocean Testing/
 ---
 
 <div align="center">
-     <h2>Ocean Acidification Crowd Testing Program</h2>
-        
+     <h2>Ocean Acidification Crowd Testing Program</h2><br>
+        <a href="http://imgur.com/bCJOEXD"><img src="http://i.imgur.com/bCJOEXD.gif" title="source: imgur.com" /></a><br>
 <div style="clear:both"></div>
 <div id="talkbubble"><span class="count"> 1051</span><br>TOTAL SAMPLES</div>
 <div id="talkbubble0"><span class="count">7108</span><br>AVERAGE PH</div>
